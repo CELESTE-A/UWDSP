@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c_program\\program_251220\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18BEC978-F924-435C-B999-3C95B0872E34}|program_251220\\program_251220.vcxproj|D:\\c_program\\program_251220\\program_251220\\program_251220.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18BEC978-F924-435C-B999-3C95B0872E34}|program_251220\\program_251220.vcxproj|solutionrelative:program_251220\\program_251220.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BEC978-F924-435C-B999-3C95B0872E34}|program_251220\\program_251220.vcxproj|D:\\c_program\\program_251220\\program_251220\\signal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18BEC978-F924-435C-B999-3C95B0872E34}|program_251220\\program_251220.vcxproj|solutionrelative:program_251220\\signal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "signal.cpp",
+              "DocumentMoniker": "D:\\c_program\\program_251220\\program_251220\\signal.cpp",
+              "RelativeDocumentMoniker": "program_251220\\signal.cpp",
+              "ToolTip": "D:\\c_program\\program_251220\\program_251220\\signal.cpp",
+              "RelativeToolTip": "program_251220\\signal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T14:46:27.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "program_251220.cpp",
+              "DocumentMoniker": "D:\\c_program\\program_251220\\program_251220\\program_251220.cpp",
+              "RelativeDocumentMoniker": "program_251220\\program_251220.cpp",
+              "ToolTip": "D:\\c_program\\program_251220\\program_251220\\program_251220.cpp",
+              "RelativeToolTip": "program_251220\\program_251220.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-20T13:17:43.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
