@@ -1,41 +1,54 @@
-# Prerequisites
-*.d
+# ===== OS / editor =====
+.DS_Store
+Thumbs.db
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# ===== Visual Studio =====
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
+# 如果你有传统 VS 工程文件（用 CMake 的话通常没有）
+Debug/
+Release/
+x64/
+x86/
+Win32/
 *.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+*.ilk
+*.obj
 *.exe
-*.out
-*.app
+*.dll
+*.lib
+*.exp
+*.idb
 
-# debug information files
-*.dwo
+# ===== CMake out-of-source builds =====
+build/
+build-*/
+cmake-build-*/
+out/
+out-*/
+
+# CMake generated (in-source build 时会出现；建议不要 in-source build)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+install_manifest.txt
+
+# ===== Ninja / Make / others =====
+*.ninja
+.ninja_*
+compile_commands.json
+
+# ===== FetchContent / deps (CMake 拉库会生成) =====
+_deps/
+
+# ===== Logs / temp =====
+*.log
+*.tmp
